@@ -4,8 +4,8 @@ A full-stack chatbot web application built using React and Express.js, integrate
 
 ## Demo
 
-Visit the following link to try the Chatbot: [ChatBot Live Demo](https://paryal58.github.io/chatBot/)
-**It may take a minute for the first request due to the server needing to spin up.**
+Visit the following link to try the Chatbot: [ChatBot Live Demo](https://paryal58.github.io/chatBot/)<br>
+__It may take a minute for the first request due to the server needing to spin up.__
 
 ## Features
 
